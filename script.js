@@ -103,5 +103,39 @@
 //     console.log('podaj właściwe hasło')
 // }
 
+// switch
+
+// const day = 'sobota'
+
+// if(day === 'poniedziałek') {
+//     console.log('Dziś jest poniedziałek')
+// } else if (day === 'wtorek') {
+//     console.log('Dziś jest wtorek')
+// } else if (day === 'środa') {
+//     console.log('Dziś jest środa')
+// } else if (day === 'czwartek') {
+//     console.log('Dziś jest czwartek')
+// } else if (day === 'piatek') {
+//     console.log('Dziś jest piatek')
+// } else   {
+//     console.log('Dziś jest weekend :)')
+// } 
+
+// const expr = 'Papayas';
+// switch (expr) {
+//   case 'Oranges':
+//     console.log('Oranges are $0.59 a pound.');
+//     break;
+//   case 'Mangoes':
+//   case 'Papayas':
+//     console.log('Mangoes and papayas are $2.79 a pound.');
+//     // expected output: "Mangoes and papayas are $2.79 a pound."
+//     break;
+//   default:
+//     console.log(`Sorry, we are out of ${expr}.`);
+// }
+
+operatory warunkowe
+
 
 
