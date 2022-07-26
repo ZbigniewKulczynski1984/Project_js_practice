@@ -72,3 +72,36 @@
 // console.log(x)
 
 // operatory porównania
+
+// console.log(10 == '10')
+
+// console.log(10 === '10')
+
+// console.log(10 != '10')
+
+// console.log(10 !== '10')
+
+// operatory logiczne
+
+// if(true && true) {
+//     console.log('first')
+// } else {
+//     console.log('second')
+// }
+
+// if(5 > 0 && 5>3) {
+//     console.log('first')
+// } else {
+//     console.log('second')
+// }
+
+// const pass = '123456789'
+
+// if(pass.length > 10) {
+//     console.log('masz dobre hasło')
+// } else {
+//     console.log('podaj właściwe hasło')
+// }
+
+
+
