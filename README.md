@@ -1,5 +1,7 @@
 # Projekt_js_praktyka
-praktyka js
+##praktyka js
+- ćwiczenia script.js
+- chowanie i odkrywanie obrazka main.js
 
 
 ## Buit With
