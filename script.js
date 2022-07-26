@@ -129,13 +129,42 @@
 //   case 'Mangoes':
 //   case 'Papayas':
 //     console.log('Mangoes and papayas are $2.79 a pound.');
-//     // expected output: "Mangoes and papayas are $2.79 a pound."
+
 //     break;
 //   default:
 //     console.log(`Sorry, we are out of ${expr}.`);
 // }
 
-operatory warunkowe
+// operatory warunkowe
 
+// const x = 100
+
+// if (x > 20) {
+//     console.log(`${x} > 20`)
+// }   else {
+//     console.log(`${x} < 20`)
+// }
+
+// const newX = x > 20 ? `${x} > 20` : `${x} < 20`
+
+// console.log(newX)
+
+// // ----------------------------------------------
+
+// const isLoggedIn = true
+
+// function loggedIn(){
+//     console.log(`Użytkownik jest zalogowany`);
+// }
+
+// function loggedOut(){
+//     console.log(`Użytkownik nie jest zalogowany`);
+// }
+
+// if (isLoggedIn)  {
+//     loggedIn()
+// } else {
+//     loggedOut()
+// }
 
 
