@@ -201,6 +201,18 @@
 
 // Petle
 
+// const animals = ['kot', 'pies','owca']
 
+// for (let i = 0; i < 7; i++)
+//     console.log(i)
 
+//     console.log(animals[0])
 
+// for (let i = 0; i < 7; i++)
+//     console.log(animals [i])
+
+// const numbers = [1,2,3,4,5]
+//     console.log(numbers);
+
+// numbers.unshift(-1,0)
+//     console.log(numbers)
