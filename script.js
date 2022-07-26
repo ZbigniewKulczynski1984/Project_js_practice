@@ -167,4 +167,40 @@
 //     loggedOut()
 // }
 
+// Zadanie1
+
+// let x = 50
+// let y = 30
+
+// if(x > y) {
+//     console.log(`${x} jest większe od ${y}`)
+// }
+
+// Zadanie2
+
+// const color = 'blue'
+// const newColor = 'green'
+
+// if (color == 'blue') {
+//     console.log(`Kolory się zgadzają`)
+// } else {
+//     console.log(`Kolory się różnią`)
+// }
+
+// const x = 100
+// const y = 50
+
+// if (x > y) {
+//     console.log(`x > y`);
+// }
+//     else if(x == y) {
+//     console.log(x = y);
+// } else {
+//     console.log(x < y);
+// }
+
+// Petle
+
+
+
 
