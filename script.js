@@ -216,3 +216,39 @@
 
 // numbers.unshift(-1,0)
 //     console.log(numbers)
+
+
+// funkcje
+
+// function test() {
+//     console.log('czesc');
+// }
+
+// test()
+
+// function add(parametr) {
+//     console.log('podany argument to:' + parametr);
+// }
+// add('test')
+
+// function add(x ,y) {
+//     return x + y
+// }
+// add(5, 3)
+
+// function hello(name,age) {
+//     console.log(`Cześć mam na imię ${name} i mam ${age} lata.`);
+// }
+
+// hello('Klaudia', 23)
+
+// 
+
+// const heading = document.querySelector('h1')
+
+// heading.addEventListener('click', function(){
+//     console.log('Kliknięto mnie');
+// })
+
+// funkcja anonimowa
+
